@@ -47,3 +47,6 @@ public class AssignmentList {
     /* percent of total grade that a certain type (e.g. homework or projects) has earned you */
     private double percentForType(Assignment.Type type) { return 0; /* TODO */ }
 }
+
+//epic comment 
+//New comment 
