@@ -1,0 +1,81 @@
+# Java class and build output
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+bin/
+target/
+build/
+out/
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+.gradletasknamecache
+
+# Eclipse
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans/
+.sts4-cache/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+*.log.*
+
+# Local environment and databases
+.env
+.env.*
+*.sqlite
+*.db
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+
+# Temporary and backup files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+
+/files
+
